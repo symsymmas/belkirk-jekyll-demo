@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/public/path/to/media/2018/02/17/neurons.jpg"
+banner_image: "/public/path/to/media/2018/02/17/bridge3.jpg"
 heading: About Belkirk
 sub_heading: Ora et Labora
 layout: landing-page
